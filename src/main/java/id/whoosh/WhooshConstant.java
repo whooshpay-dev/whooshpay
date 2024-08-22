@@ -61,7 +61,7 @@ public class WhooshConstant {
      * Payout_API.
      * From docs API
      */
-    public static final String PAY_OUT_API = "/v1.0/disbursement/cash-out";
+    public static final String PAY_OUT_API = "/v1.0/disbursement/pay-out";
 
     /**
      * PAY_OUT_INQUIRY_PAYMENT_METHOD_API.
